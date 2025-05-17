@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![zhexu-ustc](https://img.shields.io/badge/zhexu-ustc-github-blue?logo=github)](https://github.com/zhexu-ustc)
 
 He is currently pursuing a Master's Degree in Electronic and Information Engineering at the School of Information Science and Technology, University of Science and Technology of China(UTSC).
 
