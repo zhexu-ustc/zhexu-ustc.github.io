@@ -12,7 +12,7 @@ M.E., Electronic and Information Engineering, University of Science and Technolo
 B.E., Electronic and Information Engineering, University of Science and Technology of China, 2020—2024.
 
 #### Research Interests
-Artificial Intelligence, Multimodal Large Language Models, Diffusion Models.
+Artificial Intelligence, Multimodal Large Language Models, Recommendation Models.
 
 
 
